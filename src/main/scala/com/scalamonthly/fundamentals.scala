@@ -9,8 +9,6 @@ import com.scalamonthly.fundamentals.Animal.Dog
 import monocle.function.Plated
 import monocle.Traversal
 import cats.implicits._
-import com.scalamonthly.fundamentals.Tree.Branch
-import com.scalamonthly.fundamentals.Tree.Leaf
 
 object fundamentals {
 
